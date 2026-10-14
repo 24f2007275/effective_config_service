@@ -1,1 +1,3 @@
-port: 8557\nworkers: 11\napi_key: key-ek0nq5zqi1\n
+port: 8557
+workers: 11
+api_key: "key-ek0nq5zqi1"
