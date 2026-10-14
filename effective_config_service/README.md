@@ -1,1 +1,0 @@
-# Effective Config Service\n\nDeploy as a public Render Web Service. Endpoint: `/effective-config`.\n\nPrecedence: defaults < config.development.yaml < .env < OS APP_* variables < repeated `set` query overrides. `api_key` is always masked as `****`.\n
